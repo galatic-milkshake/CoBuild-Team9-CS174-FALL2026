@@ -1,0 +1,2 @@
+<?php
+// Handles authentication submissions.

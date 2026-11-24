@@ -1,0 +1,1 @@
+-- Defines tables, relationships, and constraints after database design approval.
